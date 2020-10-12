@@ -1,8 +1,8 @@
 ## Ubimbim Blog ·ᴗ·
 
-You can use the [editor on GitHub](https://github.com/ubimbim/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+instagram [@yub.33L](https://www.instagram.com/yub.33l/) -> secret
+naver [thing fave thing](https://m.blog.naver.com/PostList.nhn?permalink=permalink&blogId=dldbqls502)
+youtube 
 
 ### Markdown
 
